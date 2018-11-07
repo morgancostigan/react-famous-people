@@ -1,0 +1,29 @@
+div {
+
+}
+/* id takes precedent over class */
+
+/* class targetting uses .target */
+
+.box{
+    height: 100px;
+    width: 200px;
+    border: 4px darkorange solid;
+    background-color: blueviolet;
+}
+
+.red{
+    background-color: red;
+    float: left;
+}
+
+.green{
+    background-color: green;
+    float: left;
+}
+
+/* id targetting uses #id */
+
+#content {
+    font-family: palatino;
+}
